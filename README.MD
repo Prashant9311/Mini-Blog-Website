@@ -1,0 +1,1 @@
+# Sleek personal blog built with Django. Users enjoy a seamless reading experience, while admins manage posts effortlessly via the admin panel. Ideal for bloggers or developers exploring Django. Lightweight and customizable for a quick start to expressive content sharing.
