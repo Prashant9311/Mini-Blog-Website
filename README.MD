@@ -16,9 +16,7 @@ Feel free to customize the blog to suit your preferences. Explore the Django doc
 
 Contributions are welcome! Fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
